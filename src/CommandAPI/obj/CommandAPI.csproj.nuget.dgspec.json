@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\APITutorial\\NET Core 3.1\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {}
+    "D:\\APITutorial\\NET Core 3.1\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {}
   },
   "projects": {
-    "d:\\APITutorial\\NET Core 3.1\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {
+    "D:\\APITutorial\\NET Core 3.1\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\APITutorial\\NET Core 3.1\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+        "projectUniqueName": "D:\\APITutorial\\NET Core 3.1\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
         "projectName": "CommandAPI",
-        "projectPath": "d:\\APITutorial\\NET Core 3.1\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+        "projectPath": "D:\\APITutorial\\NET Core 3.1\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\APITutorial\\NET Core 3.1\\CommandAPISolution\\src\\CommandAPI\\obj\\",
+        "outputPath": "D:\\APITutorial\\NET Core 3.1\\CommandAPISolution\\src\\CommandAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

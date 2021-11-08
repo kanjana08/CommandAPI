@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z3Jx75GEpRfNkbG5KNhBH1NDpfXPSnZVZdbshpl7/ri9Pe10Dz+I7Ra/0vLI/gH9TpjjQDTzSMutUyzlqwYGag==",
+  "dgSpecHash": "9zWYFcUWt3L7TY72LlNDp39LkR7nKfPdcmzSpj8X3uy0ww2MU47U478y5XrossQLSMTZg3UHu7GZjEsiN8nlHg==",
   "success": true,
-  "projectFilePath": "d:\\APITutorial\\NET Core 3.1\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+  "projectFilePath": "D:\\APITutorial\\NET Core 3.1\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
