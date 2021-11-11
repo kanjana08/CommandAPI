@@ -107,3 +107,11 @@ d:\APITutorial\NET Core 3.1\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\n
 d:\APITutorial\NET Core 3.1\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net5.0\ref\CommandAPI.Tests.dll
 d:\APITutorial\NET Core 3.1\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net5.0\CommandAPI.Tests.pdb
 d:\APITutorial\NET Core 3.1\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net5.0\CommandAPI.Tests.genruntimeconfig.cache
+d:\APITutorial\NET Core 3.1\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\nuget.config
+d:\APITutorial\NET Core 3.1\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\APITutorial\NET Core 3.1\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+d:\APITutorial\NET Core 3.1\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+d:\APITutorial\NET Core 3.1\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\APITutorial\NET Core 3.1\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\APITutorial\NET Core 3.1\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Npgsql.dll
+d:\APITutorial\NET Core 3.1\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
